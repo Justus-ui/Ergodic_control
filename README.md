@@ -23,7 +23,7 @@ Some portions of the code are adapted from:
 #### 🌀 Ergodic Metric Optimization (FFT-based)
 - `SMC_ergodic_control_FFT.ipynb`  
   ![](imgs/Fourier_properties.png)  
-  ![](imgs/Radius=0.01.png)
+  ![](imgs\kappa=5_sigma=0.1.png)
 
 #### 📡 Alternative Sensor Measures
 - `smc_ergodic_sensor_distributions.ipynb`  
@@ -36,3 +36,5 @@ Some portions of the code are adapted from:
 
 #### 🔢 Different Basis Function Sets
 - `smc_ergodic_different_basis.ipynb`
+  ![](  ![](imgs/Radius=0.01.png)
+)
