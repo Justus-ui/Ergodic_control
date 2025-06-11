@@ -41,3 +41,9 @@ Applies ergodic control to a unicycle model, demonstrating performance under non
 - `smc_ergodic_different_basis.ipynb`
 Compares different sets of measure-determining linear functionals to assess their impact on the ergodic metric and control performance.
 ![](imgs/Evaluation_different_basis.png)
+
+
+## 📬 Contact
+**Author:** Justus Prass  
+📧 Email: justus.prass@web.de  
+🐙 GitHub: [@justus-ui](https://github.com/justus-ui)  
