@@ -21,11 +21,10 @@ Some portions of the code are adapted from:
 ### Notebooks Overview
 
 #### 🌀 Ergodic Metric Optimization (FFT-based)
-- `SMC_ergodic_control_FFT.ipynb`  
-_numerical computes gradient with respect to theta numerically, _interpolate computes it by interpolating the Gradients of the Fourier coefficients
+- `SMC_ergodic_control_FFT_interpolate_loss.ipynb`  
 Explores ergodic control with complex sensor measures that do not admit a symbolic form under the set of measure-determining linear functionals.
   ![](imgs/Fourier_properties.png)  
-  ![](imgs/kappa=5_sigma=0.1.png)
+  ![](imgs/loss_output.png)
 
 #### 📡 Alternative Sensor Measures
 - `smc_ergodic_sensor_distributions.ipynb`
