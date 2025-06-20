@@ -25,6 +25,7 @@ Some portions of the code are adapted from:
 Explores ergodic control with complex sensor measures that do not admit a symbolic form under the set of measure-determining linear functionals.
   ![](imgs/Fourier_properties.png)  
   ![](imgs/loss_output.png)
+  _numerical differentiates with respect to theta numerically, usefull when employing few coefficients
 
 #### 📡 Alternative Sensor Measures
 - `smc_ergodic_sensor_distributions.ipynb`
